@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm DMITRII DAK 👋
+### CGI Specialist | AI Media Producer | Game Developer
+I bridge the gap between traditional CGI and Generative AI. Currently building immersive 3D worlds and experimenting with neural media pipelines.
 
+🔭 Working on: Domkom in Godot Engine (a pseudo-3D computer game with physics).
+
+✍️ Author: Published a 352-page guide to AI in design and film: https://bhv.ru/product/stable-diffusion-22-uroka-dlya-nachinayushhih/
+
+💻 Tech stack: Blender 3D, ComfyUI, Houdini, Nuke, JavaScript (Three.js/Phaser), HTML, CSS, Ae, Ps, Ai, Pr, Figma.
+
+🌐 My website: https://dmitriidak.github.io/
+🔗 Behance: https://www.behance.net/kowalenckodmitrii
 <!--
 **DmitriiDAK/dmitriidak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
